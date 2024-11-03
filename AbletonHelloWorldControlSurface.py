@@ -1,5 +1,3 @@
-import time
-
 from _Framework.ControlSurface import ControlSurface 
 
 class AbletonHelloWorldControlSurface(ControlSurface):

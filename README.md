@@ -2,6 +2,8 @@
 
 This is a skeleton for your Ableton Control Surface Python script
 
+The code is tested in Ableton 12.1
+
 ## Open Ableton Log
 
 Here is the command to check Ableton log
